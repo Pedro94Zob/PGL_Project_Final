@@ -1,0 +1,16 @@
+{"timestamp":50881,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"false","glean_timestamp":"1742400899499","loadfail_reason":"File doesn't exist."}}
+{"timestamp":50906,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1742400899524","loadfail_reason":"File doesn't exist.","can_load":"false","path_key":"recovery"}}
+{"timestamp":50914,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","can_load":"false","path_key":"recoveryBackup","glean_timestamp":"1742400899532"}}
+{"timestamp":50916,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","path_key":"cleanBackup","loadfail_reason":"File doesn't exist.","glean_timestamp":"1742400899534"}}
+{"timestamp":50932,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","path_key":"clean","glean_timestamp":"1742400899550","can_load":"false"}}
+{"timestamp":50936,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1742400899554","path_key":"recovery","loadfail_reason":"File doesn't exist.","can_load":"false"}}
+{"timestamp":51013,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","path_key":"recoveryBackup","loadfail_reason":"File doesn't exist.","glean_timestamp":"1742400899631"}}
+{"timestamp":51023,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"cleanBackup","loadfail_reason":"File doesn't exist.","glean_timestamp":"1742400899641","can_load":"false"}}
+{"timestamp":51402,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1742400900021","setting":"required"}}
+{"timestamp":51839,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1742400900458"}}
+{"timestamp":52223,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1742400900841","value":""}}
+{"timestamp":52269,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1742400900887","value":"not-major"}}
+{"timestamp":52320,"category":"addons_manager","name":"disable_extension","extra":{"source":"system-addon","blocklist_state":"0","glean_timestamp":"1742400900938","value":"screenshots@mozilla.org"}}
+{"timestamp":52320,"category":"addons_manager","name":"manage","extra":{"addon_type":"extension","glean_timestamp":"1742400900938","source":"system-addon","addon_id":"screenshots@mozilla.org","method":"disable","blocklist_state":"0"}}
+{"timestamp":54632,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1742400903250"}}
+{"timestamp":54650,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1742400903268"}}
