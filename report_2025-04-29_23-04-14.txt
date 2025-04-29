@@ -1,0 +1,4 @@
+Rapport du 2025-04-29 23:04:14
+Prix d'ouverture : 239.4300
+Prix de clôture : 292.0300
+Volatilité (approximative) : 52.6000
