@@ -1,0 +1,5 @@
+Rapport du 2025-04-30 09:17:35
+Prix d'ouverture : 239.4300
+Prix de clôture : 292.0300
+Moyenne des valeurs : 252.80065934065934065934
+Volatilité (écart-type sur toutes les données) : 21.14347735662478627791
